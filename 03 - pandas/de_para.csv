@@ -1,0 +1,17 @@
+"antes";"depois";"campo";"tipo";"qtd"
+"cisco";"Cisco";"FABRICANTE";"association";2134
+"juniper";"Juniper";"FABRICANTE";"association";234
+"f5";"F5";"FABRICANTE";"association";423
+"3com";"3COM";"FABRICANTE";"association";12
+"hp";"Hewlett-Packer";"FABRICANTE";"association";45
+"alp";"ALP";"MODELO";"association";763
+"(?i)(wlc)";"WLC";"MODELO";"regexp";21
+"(?i)(air-ct)";"AIR-CT";"MODELO";"regexp";783
+"acs";"ACS";"EXCEPTION";"association";43
+"ap";"AP";"EXCEPTION";"association";89
+"is\d+";"IS";"EXCEPTION";"regexp";159
+"lc(\d+|-\d+)";"LC";"EXCEPTION";"regexp";564
+"acs";"DELETE";"EXCEPTION_to_DELETE";"association";456
+"ap";"DELETE";"EXCEPTION_to_DELETE";"association";321
+"is\d+";"IS";"EXCEPTION_to_DELETE";"regexp";100
+"lc(\d+|-\d+)";"LC";"EXCEPTION_to_DELETE";"regexp";741
